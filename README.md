@@ -7,7 +7,7 @@
 * It can be used to achieve a number of beginner-level [learning outcomes](#learning-outcomes) without 
   running into the complications of OOP or GUI programmings.
 
-**Table of Contents**
+**Table of Contents:**
 * [**User Guide**](#user-guide)
     * [Starting the program](#starting-the-program)
     * [List of commands](#list-of-commands)
