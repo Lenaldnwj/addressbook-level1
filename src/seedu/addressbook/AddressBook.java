@@ -205,6 +205,9 @@ public class AddressBook {
         showWelcomeMessage();
         processProgramArgs(args);
         loadDataFromStorage();
+
+        showResultToUser(executeCommand(COMMAND_LIST_WORD));
+
         while (true) {
             String userCommand = getUserInput();
             echoUserCommand(userCommand);
